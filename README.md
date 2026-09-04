@@ -1,0 +1,1 @@
+# Analisador_de_curriculos_com_ia
